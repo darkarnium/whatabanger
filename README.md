@@ -15,7 +15,7 @@ provided.
 ** Attempts to enumerate all APs connected to a compatible SWD DAP.
 * `swdinit.py`
 ** An SWD initialisation script. Simply sets up an interface.
-* ``sramread.py`
+* `sramread.py`
 ** Attempts to read STM32F103x SRAM (`0x20000000` -> `0x40000000`).
 
 ### Testing
